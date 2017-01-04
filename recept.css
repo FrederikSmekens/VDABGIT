@@ -13,3 +13,7 @@ ul li {
     display: inline-block;
     margin: 0;
 }
+
+ul li:first-child {
+    color: cyan;
+}
