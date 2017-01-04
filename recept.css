@@ -4,3 +4,12 @@
 h1 {
     font-family: sans-serif;
 }
+
+ul {
+
+}
+
+ul li {
+    display: inline-block;
+    margin: 0;
+}
