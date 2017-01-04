@@ -122,3 +122,7 @@ footer {
     clear: left;
 }
 
+.container{
+    width: 90%;
+    padding: auto;
+}
