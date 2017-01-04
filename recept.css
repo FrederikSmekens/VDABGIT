@@ -50,7 +50,7 @@ ol ul {
     padding:0;
 
 }
-ol ul li{
+#werkwijze{
     display:block;
     padding:0.5em;
     padding-left:0;
@@ -65,7 +65,7 @@ ol ul li{
 #ingredienten {
     color: white;
     font-size: 2em;
-    font-family: Lobster;
+    font-family: Lobster,sans-serif;
 }
 
 #ingredienten ul {
