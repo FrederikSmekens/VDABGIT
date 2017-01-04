@@ -70,7 +70,7 @@ ol ul {
 
 #ingredienten ul {
     color: white;
-    font-family: Verdana;
+    font-family: Verdana, sans-serif;
 
 }
 
@@ -122,5 +122,35 @@ ol ul {
 footer {
     float: left;
     clear: left;
+}
+
+/* nav css */
+
+nav ul {
+    float: left;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+    width: 100%;
+    height: 3em;
+    line-height: 3em;
+    padding-left: 0.2em;
+}
+
+nav ul li {
+    display: inline-block;
+
+}
+
+nav ul li:hover {
+    background-color: darkorange;
+}
+
+
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
 }
 
