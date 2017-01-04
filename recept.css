@@ -22,7 +22,7 @@ ul {
 }
 
 ul li {
-    display: inline-block;
+    display: block;
     margin: 0;
 }
 /*css ol werkwijze*/
@@ -79,6 +79,8 @@ ol ul {
 
     font-size: 0.8em;
     width: auto;
+    display: block;
+    margin: 0.2em 0;
 
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#63b6db+0,309dcf+100;Blue+3D+%234 */
     background: #63b6db; /* Old browsers */
