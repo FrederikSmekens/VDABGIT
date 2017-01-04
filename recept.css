@@ -154,3 +154,8 @@ nav ul li a {
     color: white;
 }
 
+
+.container{
+    width: 90%;
+    padding: auto;
+}
